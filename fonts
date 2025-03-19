@@ -1,1 +1,5 @@
-ROMANTIC.TTF
+/your-project
+    /fonts
+        ROMANTIC.TTF
+index.html
+    style.css
